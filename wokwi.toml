@@ -1,0 +1,4 @@
+[wokwi]
+verson = 0.0.00
+elf = ".pio/build/esp32/firmware.elf"
+firmware = ".pio/build/esp32/firmware.bin"
